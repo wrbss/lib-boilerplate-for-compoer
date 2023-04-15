@@ -10,12 +10,12 @@
         "phpunit/phpunit": "^9.5"
     },
     "autoload": {
-        "psr-4": {
+        "psr-0": {
             "Wrbss\\HelloWorld\\": "src"
         }
     },
     "autoload-dev": {
-        "psr-4": {
+        "psr-0": {
             "Wrbss\\HelloWorld\\": "tests"
         }
     },

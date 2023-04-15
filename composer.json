@@ -11,12 +11,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Wrbss\\Package\\": "src"
+            "Wrbss\\HelloWorld\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Wrbss\\Package\\": "tests"
+            "Wrbss\\HelloWorld\\": "tests"
         }
     },
     "config": {

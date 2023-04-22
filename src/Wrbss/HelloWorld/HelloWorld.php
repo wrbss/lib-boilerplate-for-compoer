@@ -6,6 +6,6 @@ class HelloWorld
 {
     public function sayHello()
     {
-        return "Hello, world!";
+        return "Hello, world! update";
     }
 }

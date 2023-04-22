@@ -18,9 +18,5 @@
         "psr-0": {
             "Wrbss\\HelloWorld\\": "tests"
         }
-    },
-    "config": {
-      "sort-pagagees": true
     }
 }
-
